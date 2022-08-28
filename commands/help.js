@@ -5,6 +5,6 @@ module.exports = {
 		.setName('help')
 		.setDescription('Replies with all Dogestep BOT commands.'),
 	async execute(interaction) {
-		await interaction.reply('Ponwaddwadwadwag!');
+		await interaction.reply('hiii!');
 	},
 };
