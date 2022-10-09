@@ -1,0 +1,13 @@
+/node_modules
+node_modules
+/auth.json
+.env
+.gcloudignore
+.vscode
+config.json
+dist
+dogestep-bot-firebase-adminsdk-vyd7m-80ea2f5575.json
+db/dogestep-bot-firebase-adminsdk-vyd7m-d677a8fe5a.json
+
+package.json
+package-lock.json
