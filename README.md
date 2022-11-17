@@ -1,10 +1,8 @@
-# dogestep-bot
 <h1 align="center">
   <br>
   dogestep-bot 
   <br>
 </h1>
-
 
 <h3 align=center>A Discord Bot built using <a href=https://github.com/discordjs/discord.js>discord.js</a> !</h3>
 
@@ -12,7 +10,6 @@
   <a href="#about">About</a>
   •
   <a href="#Features">Features</a>
-  •
 </p>
 
 
