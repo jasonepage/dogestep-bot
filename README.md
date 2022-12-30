@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  dogestep-bot 
+  firecord-bot 
   <br>
 </h1>
 
